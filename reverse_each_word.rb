@@ -1,5 +1,5 @@
 def reverse_each_word(string)
 
-string.each.reverse do {|string| string}
-end 
+ my_str.split(' ').reverse.join(' ')
+
 end 
